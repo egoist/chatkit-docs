@@ -14,7 +14,7 @@ defineProps({
 })
 
 const togglePlay = () => {
-  if (!videoRef.value) return
+  if (!videoRef.value || !canPlay.value) return
 
   if (status.value === "playing") {
     videoRef.value.pause()
