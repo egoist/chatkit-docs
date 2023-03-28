@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+kbd {
+  @apply bg-zinc-100 rounded-lg border p-1 px-2 whitespace-nowrap text-xs text-zinc-600 border-zinc-300 dark:bg-zinc-800 dark:text-zinc-200 dark:border-zinc-600;
+}
