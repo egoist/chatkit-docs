@@ -3,7 +3,7 @@
 If you can't access the OpenAI API directly (due to firewall or other issues), you can use our OpenAI Proxy to access the API:
 
 ```
-https://openai-api.vercel.app
+https://openai-api.chatkit.app
 ```
 
 ![set proxy in settings](https://fastly.jsdelivr.net/gh/egoist-bot/images@main/uPic/LuXbfz.png)
