@@ -4,6 +4,7 @@ import { ref } from "vue"
 const videoRef = ref<HTMLVideoElement>()
 const status = ref<"idle" | "paused" | "playing">("idle")
 const remaingTime = ref(0)
+const canPlay = ref(false)
 
 defineProps({
   src: {
@@ -38,11 +39,18 @@ const onTimeUpdate = () => {
   if (!videoRef.value) return
   remaingTime.value = videoRef.value.duration - videoRef.value.currentTime
 }
+
+const onCanPlay = () => {
+  canPlay.value = true
+}
 </script>
 
 <template>
   <div
     class="relative group cursor-pointer rounded-xl overflow-hidden aspect-auto"
+    :class="{
+      'bg-zinc-200 animate-pulse duration-100 min-h-[200px]': !canPlay,
+    }"
     @click="togglePlay"
   >
     <video
@@ -53,6 +61,7 @@ const onTimeUpdate = () => {
       @play="onPlay"
       @ended="onEnded"
       @pause="onPause"
+      @canplay="onCanPlay"
     />
     <span
       v-if="status === 'playing' || status === 'paused'"
@@ -68,8 +77,10 @@ const onTimeUpdate = () => {
       }"
     >
       <span
+        v-if="canPlay"
         :class="status === 'playing' ? 'i-tabler-pause' : 'i-tabler-play'"
       ></span>
+      <span v-else class="i-tabler-loader-2 animate-spin"></span>
     </button>
   </div>
 </template>
