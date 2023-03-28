@@ -39,17 +39,14 @@ const onTimeUpdate = () => {
   if (!videoRef.value) return
   remaingTime.value = videoRef.value.duration - videoRef.value.currentTime
 }
-
-const onCanPlay = () => {
-  canPlay.value = true
-}
 </script>
 
 <template>
   <div
-    class="relative group cursor-pointer rounded-xl overflow-hidden aspect-auto"
+    class="relative group rounded-xl overflow-hidden aspect-auto"
     :class="{
       'bg-zinc-200 animate-pulse duration-100 min-h-[200px]': !canPlay,
+      'cursor-pointer': canPlay,
     }"
     @click="togglePlay"
   >
@@ -61,7 +58,11 @@ const onCanPlay = () => {
       @play="onPlay"
       @ended="onEnded"
       @pause="onPause"
-      @canplay="onCanPlay"
+      @loadedmetadata="
+        () => {
+          canPlay = true
+        }
+      "
     />
     <span
       v-if="status === 'playing' || status === 'paused'"
