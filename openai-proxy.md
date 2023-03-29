@@ -6,7 +6,7 @@ If you can't access the OpenAI API directly (due to firewall or other issues), y
 https://openai-proxy.chatkit.app
 ```
 
-![set proxy in settings](https://fastly.jsdelivr.net/gh/egoist-bot/images@main/uPic/LuXbfz.png)
+![set proxy in settings](https://fastly.jsdelivr.net/gh/egoist-bot/images@main/uPic/akACDr.png)
 
 ::: warning
 Using a proxy is potentially against OpenAI's Terms of Service, use at your own risk.
