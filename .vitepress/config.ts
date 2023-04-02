@@ -20,6 +20,10 @@ export default defineConfig({
             link: "/chat-external-documents",
           },
           {
+            text: "Prompt Templates",
+            link: "/prompt-templates",
+          },
+          {
             text: "Shortcuts",
             link: "/shortcuts",
           },
