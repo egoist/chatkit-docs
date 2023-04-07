@@ -38,6 +38,15 @@ export default defineConfig({
           },
         ],
       },
+      {
+        text: "Tools",
+        items: [
+          {
+            text: "Google Search",
+            link: "/tools/google-search",
+          },
+        ],
+      },
     ],
 
     socialLinks: [
