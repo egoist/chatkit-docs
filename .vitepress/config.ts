@@ -42,8 +42,16 @@ export default defineConfig({
         text: "Tools",
         items: [
           {
+            text: "Overview",
+            link: `/tools/overview`,
+          },
+          {
             text: "Google Search",
             link: "/tools/google-search",
+          },
+          {
+            text: "Request Get",
+            link: "/tools/request-get",
           },
         ],
       },
