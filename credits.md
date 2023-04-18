@@ -6,7 +6,7 @@ ChatKit [Premium](https://chatkit.app/#pricing) has the option to buy credits an
 
 ## Pricing
 
-$5 credits cost exactly $5 USD, differnt API will cost a different amount of credits, Our pricing is based on OpenAI pricing plus 30% fee, the final price is as follows:
+$5 credits cost exactly $5 USD, different API will cost a different amount of credits, Our pricing is based on OpenAI pricing plus 30% fee, the final price is as follows:
 
 | API            | Cost                    |
 | -------------- | ----------------------- |
