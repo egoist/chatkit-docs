@@ -27,6 +27,10 @@ export default defineConfig({
             text: "Shortcuts",
             link: "/shortcuts",
           },
+          {
+            text: "Credits",
+            link: "/credits",
+          },
         ],
       },
       {
