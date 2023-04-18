@@ -30,15 +30,6 @@ export default defineConfig({
         ],
       },
       {
-        text: "Tips",
-        items: [
-          {
-            text: "OpenAI Proxy",
-            link: "/openai-proxy",
-          },
-        ],
-      },
-      {
         text: "Tools",
         items: [
           {
