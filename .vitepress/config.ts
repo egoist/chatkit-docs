@@ -50,6 +50,15 @@ export default defineConfig({
           },
         ],
       },
+      {
+        text: "Company",
+        items: [
+          {
+            text: "Refund policy",
+            link: "/refund-policy",
+          },
+        ],
+      },
     ],
 
     socialLinks: [
