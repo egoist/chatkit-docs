@@ -17,3 +17,11 @@ https://developers.google.com/custom-search/v1/overview#api_key
 ## How much does it cost?
 
 Google Search is free for the first 100 search queries per day, and $5 per 1000 queries after that. You can find more information here: https://developers.google.com/custom-search/v1/overview#pricing
+
+## Using Search
+
+You can activate search by using a prompt like this:
+
+```
+search bitcoin price
+```
