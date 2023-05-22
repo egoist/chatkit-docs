@@ -43,7 +43,7 @@ const onTimeUpdate = () => {
 
 <template>
   <div
-    class="relative group rounded-xl overflow-hidden aspect-auto"
+    class="relative group overflow-hidden aspect-auto"
     :class="{
       'bg-zinc-200 animate-pulse duration-100 min-h-[200px]': !canPlay,
       'cursor-pointer': canPlay,

@@ -21,6 +21,10 @@ export default defineConfig({
             link: "/chat-external-documents",
           },
           {
+            text: "Text to Speech",
+            link: "/text-to-speech",
+          },
+          {
             text: "Prompt Templates",
             link: "/prompt-templates",
           },

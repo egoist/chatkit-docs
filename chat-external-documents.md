@@ -8,6 +8,7 @@ ChatKit allows you to add URLs as chat context, it's useful for summarizing exte
 
 - Youtube videos
 - PDF
+- Word (.doc, .docx)
 - CSV
 - JSON
 - Regular web page
