@@ -2,7 +2,7 @@
 
 :::info TLDR:
 
-Your chat messages alongside your OpenAI API key are sent directly to OpenAI through our server, we don't store any of your chat messages or your API key on our server.
+Your chat messages alongside your OpenAI API key are sent directly to OpenAI through our server, we don't store any of your chat messages or your API key on our server. No human eyes will ever see your personal data without your consent.
 
 The files you uploaded on ChatKit will be stored for 30 days, after that they will be deleted forever.
 :::
