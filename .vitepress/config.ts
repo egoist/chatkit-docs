@@ -39,19 +39,19 @@ export default defineConfig({
         ],
       },
       {
-        text: "Tools",
+        text: "Plugins",
         items: [
           {
             text: "Overview",
-            link: `/tools/overview`,
+            link: `/plugins/overview`,
           },
           {
             text: "Google Search",
-            link: "/tools/google-search",
+            link: "/plugins/google-search",
           },
           {
-            text: "Request Get",
-            link: "/tools/request-get",
+            text: "Request",
+            link: "/plugins/request",
           },
         ],
       },
@@ -59,8 +59,16 @@ export default defineConfig({
         text: "Company",
         items: [
           {
+            text: "Privacy policy",
+            link: "/privacy-policy",
+          },
+          {
             text: "Refund policy",
             link: "/refund-policy",
+          },
+          {
+            text: "Terms and Conditions",
+            link: "/terms",
           },
         ],
       },
