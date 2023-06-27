@@ -2,7 +2,7 @@
 
 :::info TLDR:
 
-Your chat messages alongside your OpenAI API key are sent directly to OpenAI through our server, we don't store any of your chat messages or your API key.
+Your chat messages alongside your OpenAI API key are sent directly to OpenAI through our server, we don't store any of your chat messages or your API key on our server.
 :::
 
 ChatKit (the “Company”) is committed to maintaining robust privacy protections for its users.  Our Privacy Policy (“Privacy Policy”) is designed to help you understand how we collect, use and safeguard the information you provide to us and to assist you in making informed decisions when using our Service.
