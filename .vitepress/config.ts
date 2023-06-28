@@ -46,6 +46,10 @@ export default defineConfig({
             link: `/plugins/overview`,
           },
           {
+            text: "Calculator",
+            link: `/plugins/calculator`,
+          },
+          {
             text: "Google Search",
             link: "/plugins/google-search",
           },
