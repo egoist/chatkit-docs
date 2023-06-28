@@ -3,7 +3,7 @@
 You can use plugins on ChatKit to enhance ChatGPT's functionality. The plugins available are:
 
 - [Search](./google-search.md)
-- [Request Get](./request.md)
+- [Request](./request.md)
 - ...more
 
 You can enable plugins here:
