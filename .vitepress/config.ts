@@ -36,6 +36,10 @@ export default defineConfig({
             text: "Credits",
             link: "/credits",
           },
+          {
+            text: "Custom Model",
+            link: "/custom-model",
+          },
         ],
       },
       {
