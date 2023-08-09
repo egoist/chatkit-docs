@@ -1,6 +1,6 @@
 # OpenRouter Models
 
-ChatKit provides Claude / Llama2 models via [OpenRouter](https://openrouter.ai/docs), a unified API for many large language models. You can select one from the model list in Chat Settings.
+ChatKit provides Claude / Llama2 etc. models via [OpenRouter](https://openrouter.ai/docs), a unified API for many large language models. You can select one from the model list in Chat Settings.
 
 ![](https://cdn.jsdelivr.net/gh/egoist-bot/images@main/uPic/Q7pWvP.png)
 
