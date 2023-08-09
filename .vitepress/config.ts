@@ -37,6 +37,10 @@ export default defineConfig({
             link: "/credits",
           },
           {
+            text: "OpenRouter Models",
+            link: "/openrouter",
+          },
+          {
             text: "Custom Model",
             link: "/custom-model",
           },
