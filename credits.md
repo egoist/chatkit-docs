@@ -2,6 +2,14 @@
 
 ChatKit [Premium](https://chatkit.app/#pricing) has the option to buy credits and use them instead of providing an OpenAI API Key.
 
+## How to buy credits
+
+1. Open the License modal (after activating your license):
+
+![Premium](https://cdn.jsdelivr.net/gh/egoist-bot/images@main/uPic/pMj9v9.png)
+
+2. Click on the "Buy Credits" button:
+
 ![preview](https://fastly.jsdelivr.net/gh/egoist-bot/images@main/uPic/Qno7mO.jpeg)
 
 ## Pricing

@@ -17,6 +17,10 @@ export default defineConfig({
         text: "Guide",
         items: [
           {
+            text: "Getting Started",
+            link: "/getting-started",
+          },
+          {
             text: "Chat over External Documents",
             link: "/chat-external-documents",
           },
