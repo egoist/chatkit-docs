@@ -30,10 +30,4 @@ The chat interface has an indicator to show whether you're using credits or API 
 
 ## Pricing
 
-$5 credits cost exactly $5 USD, different API will cost a different amount of credits, Our pricing is based on OpenAI pricing plus 30% fee, the final price is as follows:
-
-| API            | Cost                                                               |
-| -------------- | ------------------------------------------------------------------ |
-| GPT-3.5        | $0.0026 per 1000 tokens                                            |
-| GPT-4          | prompt: $0.039 per 1000 tokens, completion: $0.078 per 1000 tokens |
-| Speech-to-Text | $0.0078 per minute                                                 |
+$5 credits cost exactly $5 USD, different API will cost a different amount of credits, Our pricing is based on OpenAI pricing plus 30% fee, check out [OpenAI Pricing](https://openai.com/pricing) for their API pricing.
