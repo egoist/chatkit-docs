@@ -44,6 +44,10 @@ export default defineConfig({
             link: "/credits",
           },
           {
+            text: "Perplexity Models",
+            link: "/pplx",
+          },
+          {
             text: "OpenRouter Models",
             link: "/openrouter",
           },
