@@ -1,5 +1,9 @@
 # Cloud Sync
 
+:::warning
+This feature is only available for licensed users.
+:::
+
 For licensed users, the cloud sync feature allows you to sync your settings and chat history across multiple devices.
 
 To enable this you need to log in with your email in Account Settings:

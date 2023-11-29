@@ -44,6 +44,10 @@ export default defineConfig({
             link: "/credits",
           },
           {
+            text: "Log In",
+            link: "/log-in",
+          },
+          {
             text: "Cloud Sync",
             link: "/cloud-sync",
           },
