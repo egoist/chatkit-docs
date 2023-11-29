@@ -44,6 +44,10 @@ export default defineConfig({
             link: "/credits",
           },
           {
+            text: "Cloud Sync",
+            link: "/cloud-sync",
+          },
+          {
             text: "Perplexity Models",
             link: "/pplx",
           },

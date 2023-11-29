@@ -5,7 +5,7 @@
 There're two ways to use ChatKit:
 
 1. Using Your own OpenAI API key
-2. Using ChatKit Credits (requires ChatKit Premium)
+2. Using ChatKit Credits (requires ChatKit License)
 
 ## Using OpenAI API key
 
