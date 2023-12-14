@@ -52,6 +52,10 @@ export default defineConfig({
             link: "/cloud-sync",
           },
           {
+            text: "Google Gemini",
+            link: "/gemini",
+          },
+          {
             text: "Perplexity Models",
             link: "/pplx",
           },
