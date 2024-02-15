@@ -52,6 +52,10 @@ export default defineConfig({
             link: "/cloud-sync",
           },
           {
+            text: "Azure OpenAI",
+            link: "/azure-openai",
+          },
+          {
             text: "Google Gemini",
             link: "/gemini",
           },
