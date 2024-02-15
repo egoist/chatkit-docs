@@ -24,6 +24,6 @@ To use Azure OpenAI, you need to configure your deployment endpoint and api key:
 
 ![](https://cdn.jsdelivr.net/gh/egoist-bot/images@main/uPic/YdUFeO.png)
 
-To view your deployment endpoint and api key, you can go to the [Azure OpenAI portal](https://oai.azure.com/), the endpoint looks like `https://resource-name.openai.azure.com`:
+You can obtain them from [Azure portal > Azure OpenAI](https://portal.azure.com/), the endpoint looks like `https://resource-name.openai.azure.com`:
 
-![](https://cdn.jsdelivr.net/gh/egoist-bot/images@main/uPic/9ZG6su.png)
+![](https://cdn.jsdelivr.net/gh/egoist-bot/images@main/uPic/79vLS6.png)
