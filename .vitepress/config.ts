@@ -71,6 +71,10 @@ export default defineConfig({
             text: "Custom Model",
             link: "/custom-model",
           },
+          {
+            text: "Math Formula",
+            link: "/math-formula",
+          },
         ],
       },
       {
