@@ -68,6 +68,10 @@ export default defineConfig({
             link: "/openrouter",
           },
           {
+            text: "Ollama Models",
+            link: "/ollama",
+          },
+          {
             text: "Custom Model",
             link: "/custom-model",
           },
