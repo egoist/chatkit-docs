@@ -14,7 +14,13 @@ Check out available models [here](https://ollama.com/library).
 
 ## Enabling Ollama on ChatKit
 
-Ollama is disabled by default, you can enable it in App Settings -> Models.
+First you need to allow our website to access your local Ollama API, here's how you can do it on macOS:
+
+```
+launchctl setenv OLLAMA_ORIGINS https://chatkit.app
+```
+
+Ollama models are not shown on ChatKit by default, but you can enable it in App Settings -> Models.
 
 ![App Settings -> Models](https://cdn.jsdelivr.net/gh/egoist-bot/images@main/uPic/chnVxS.png)
 
