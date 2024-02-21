@@ -20,7 +20,9 @@ First you need to allow our website to access your local Ollama API, here's how 
 launchctl setenv OLLAMA_ORIGINS https://chatkit.app
 ```
 
-Ollama models are not shown on ChatKit by default, but you can enable it in App Settings -> Models.
+Check out [this official guide](https://github.com/ollama/ollama/blob/main/docs/faq.md#how-do-i-configure-ollama-server) for Windows and Linux instructions.
+
+Now ChatKit can access Ollama models, but they won't be shown on ChatKit by default, you can enable it in App Settings -> Models:
 
 ![App Settings -> Models](https://cdn.jsdelivr.net/gh/egoist-bot/images@main/uPic/chnVxS.png)
 
