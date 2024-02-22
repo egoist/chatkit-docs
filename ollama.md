@@ -14,13 +14,13 @@ Check out available models [here](https://ollama.com/library).
 
 ## Enabling Ollama on ChatKit
 
-First you need to allow our website to access your local Ollama API, here's how you can do it on macOS:
+When using our web app (i.e. https://chatkit.app), first you need to it to access your local Ollama API, here's how you can do it on macOS:
 
 ```
 launchctl setenv OLLAMA_ORIGINS https://chatkit.app
 ```
 
-Check out [this official guide](https://github.com/ollama/ollama/blob/main/docs/faq.md#how-do-i-configure-ollama-server) for Windows and Linux instructions.
+**This step is not required if you are using ChatKit desktop app.** Check out [this official guide](https://github.com/ollama/ollama/blob/main/docs/faq.md#how-do-i-configure-ollama-server) for how to set `OLLAMA_ORIGINS` environment variable on Windows and Linux instructions.
 
 Now ChatKit can access Ollama models, but they won't be shown on ChatKit by default, you can enable it in App Settings -> Models:
 
