@@ -16,8 +16,9 @@ Check out available models [here](https://ollama.com/library).
 
 When using our web app (i.e. https://chatkit.app), first you need to it to access your local Ollama API, here's how you can do it on macOS:
 
-```
+```bash
 launchctl setenv OLLAMA_ORIGINS https://chatkit.app
+# restart ollama
 ```
 
 **This step is not required if you are using ChatKit desktop app.** Check out [this official guide](https://github.com/ollama/ollama/blob/main/docs/faq.md#how-do-i-configure-ollama-server) for how to set `OLLAMA_ORIGINS` environment variable on Windows and Linux instructions.
