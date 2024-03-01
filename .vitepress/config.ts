@@ -97,6 +97,10 @@ export default defineConfig({
             link: "/plugins/google-search",
           },
           {
+            text: "DuckDuckGo Search",
+            link: "/plugins/duckduckgo",
+          },
+          {
             text: "Request",
             link: "/plugins/request",
           },
