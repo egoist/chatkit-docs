@@ -1,4 +1,4 @@
-## Anthropic
+# Anthropic
 
 [Claude by Anthropic](https://www.anthropic.com/claude) is available in ChatKit.
 
