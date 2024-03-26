@@ -1,6 +1,6 @@
 # Launcher
 
-ChatKit Launcher is a feature exclusive in the desktop version of ChatKit. It allows you to quickly run your favorite prompts from anywhere on your computer.
+ChatKit Launcher is a feature exclusively in the desktop version of ChatKit. It allows you to quickly run your favorite prompts from anywhere on your computer.
 
 The launcher is based on Prompt Templates, so be sure to learn about [Prompt Templates](prompt-templates.md) first.
 
