@@ -35,6 +35,7 @@ export default defineConfig({
             text: "Prompt Templates",
             link: "/prompt-templates",
           },
+          { text: "Launcher", link: "/launcher" },
           {
             text: "Shortcuts",
             link: "/shortcuts",
