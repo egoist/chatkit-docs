@@ -4,25 +4,21 @@ ChatKit [Premium](https://chatkit.app/#pricing) has the option to buy credits an
 
 ## How to buy credits
 
-1. Open the License modal (after activating your license):
+Open App Settings -> Account, click the "Buy Credits" button:
 
-![Premium](https://cdn.jsdelivr.net/gh/egoist-bot/images@main/uPic/pMj9v9.png)
-
-2. Click on the "Buy Credits" button:
-
-![preview](https://fastly.jsdelivr.net/gh/egoist-bot/images@main/uPic/Qno7mO.jpeg)
+![Premium](https://cdn.jsdelivr.net/gh/egoist-bot/images@main/uPic/HQ1KyI.png)
 
 ## How to use credits
 
 First, remove the OpenAI API key on ChatKit if you have set it before:
 
-![openai api key setting](https://cdn.jsdelivr.net/gh/egoist-bot/images@main/uPic/KEY0sb.png)
+![openai api key setting](https://cdn.jsdelivr.net/gh/egoist-bot/images@main/uPic/4t96rF.png)
 
 This setting takes precedence over credits.
 
 Alternately, you can force specific chats to use credits even if you have OpenAI API key in your settings:
 
-![chat setting](https://cdn.jsdelivr.net/gh/egoist-bot/images@main/uPic/6Rj345.png)
+![chat setting](https://cdn.jsdelivr.net/gh/egoist-bot/images@main/uPic/b6gV1g.png)
 
 The chat interface has an indicator to show whether you're using credits or API key:
 

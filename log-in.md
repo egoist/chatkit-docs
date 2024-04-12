@@ -11,6 +11,6 @@ By default you don't have to log in to use ChatKit, but there're exclusive featu
 
 To log in, just go to the Account Settings and enter your email address:
 
-![log in](https://cdn.jsdelivr.net/gh/egoist-bot/images@main/uPic/ymbZ7s.png)
+![log in](https://cdn.jsdelivr.net/gh/egoist-bot/images@main/uPic/1yIZOp.png)
 
 You'll receive an email with a verification code, enter it and you're good to go!
