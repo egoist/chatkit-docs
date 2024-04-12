@@ -52,6 +52,7 @@ export default defineConfig({
             text: "Cloud Sync",
             link: "/cloud-sync",
           },
+          { text: "Web Access", link: "/web-access" },
           {
             text: "Azure OpenAI",
             link: "/azure-openai",
@@ -82,31 +83,7 @@ export default defineConfig({
           },
         ],
       },
-      {
-        text: "Plugins",
-        items: [
-          {
-            text: "Overview",
-            link: `/plugins/overview`,
-          },
-          {
-            text: "Calculator",
-            link: `/plugins/calculator`,
-          },
-          {
-            text: "Google Search",
-            link: "/plugins/google-search",
-          },
-          {
-            text: "DuckDuckGo Search",
-            link: "/plugins/duckduckgo",
-          },
-          {
-            text: "Request",
-            link: "/plugins/request",
-          },
-        ],
-      },
+
       {
         text: "Company",
         items: [

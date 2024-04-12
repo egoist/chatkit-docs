@@ -21,4 +21,3 @@ Basically everything except your license key. This includes:
 - App settings (including your OpenAI API key (if any) etc.)
 - Chat history
 - Chat settings
-- Chat plugins (and their settings)
