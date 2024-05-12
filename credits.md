@@ -10,11 +10,9 @@ Open App Settings -> Account, click the "Buy Credits" button:
 
 ## How to use credits
 
-First, remove the OpenAI API key on ChatKit if you have set it before:
+First, remove the OpenAI API key on ChatKit if you have set it before because this setting takes precedence over credits:
 
 ![openai api key setting](https://cdn.jsdelivr.net/gh/egoist-bot/images@main/uPic/4t96rF.png)
-
-This setting takes precedence over credits.
 
 Alternately, you can force specific chats to use credits even if you have OpenAI API key in your settings:
 
@@ -27,3 +25,7 @@ The chat interface has an indicator to show whether you're using credits or API 
 ## Pricing
 
 $5 credits cost exactly $5 USD, different API will cost a different amount of credits, Our pricing is based on OpenAI pricing plus 30% fee, check out [OpenAI Pricing](https://openai.com/pricing) for their API pricing.
+
+## Where are credits used?
+
+Any feature that is provided by OpenAI API can be used with credits.
