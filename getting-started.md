@@ -25,7 +25,7 @@ Using OpenAI API key is NOT free, you will follow OpenAI's pricing model. OpenAI
 ## Using ChatKit Credits
 
 1. Go to [ChatKit](https://chatkit.app/#pricing) and purcahse a license.
-2. After successful payment you will get an email from our payment provider ([Lemon Squeezy](https://www.lemonsqueezy.com/)) with your license key.
+2. After successful payment you will get an email with your license key.
 3. Go to ChatKit and click the "Settings" button (top-right corner) to paste the ChatKit license key in the "Account" tab.
 4. After that you can buy ChatKit Credits.
 
@@ -35,8 +35,6 @@ If you have set an OpenAI API key on ChatKit, you need to remove it first before
 
 ## Activate your License
 
-You can find your key in the email from our payment provider ([Lemon Squeezy](https://www.lemonsqueezy.com/)), and activate it on ChatKit:
+You will receive your license key in the email upon successful payment, and you can use it to activate ChatKit:
 
 <VideoPlayer src="https://cdn.jsdelivr.net/gh/egoist-bot/images@main/uPic/jkHxsQ.mp4" />
-
-If you lost you license key you can find it on [Lemon Squeezy](https://app.lemonsqueezy.com/my-orders) too.

@@ -52,6 +52,7 @@ export default defineConfig({
             text: "Cloud Sync",
             link: "/cloud-sync",
           },
+          { text: "Team Plan", link: "/team" },
           { text: "Web Access", link: "/web-access" },
           {
             text: "Azure OpenAI",
