@@ -24,6 +24,15 @@ Log in with your team admin email, an admin can:
 - Purchase new devices
 - Update team settings
 
+## Invite team members
+
+You can generate license keys manually for your team members, but it's also possible to invite them to join your team by using their email. Head to https://chatkit.app/team-admin and click "Invite Users":
+
+![](https://cdn.jsdelivr.net/gh/egoist-bot/images@main/uPic/GqzYW7.png)
+
+After configuring your email domains, you can send `https://chatkit.app/join-team` to your team members, they can join your team by entering their email.
+
 ## Limitations
 
-Currently a team can't share [ChatKit Credits](./credits.md), it's managed by each license user just like how it works with a personal license key, let us know if you need this feature.
+- Currently a team can't share [ChatKit Credits](./credits.md), it's managed by each license user just like how it works with a personal license key, let us know if you need this feature.
+- By default every new member joined via `https://chatkit.app/join-team` will be limited to 1 devices, we'll soon make this configurable.
