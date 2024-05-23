@@ -23,6 +23,8 @@ Log in with your team admin email, an admin can:
 - Create/Update/Delete license keys
 - Purchase new devices
 - Update team settings
+- Set a team-wise OpenAI API key, this key applies to all members but the key itself is not exposed to members
+- Disable ChatKit credits for members
 
 ## Invite team members
 
