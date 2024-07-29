@@ -32,7 +32,3 @@ Now ChatKit can access Ollama models, but they won't be shown on ChatKit by defa
 When it's enabled, Ollama models will be available in the model list on ChatKit:
 
 ![Model list](https://cdn.jsdelivr.net/gh/egoist-bot/images@main/uPic/akD6B6.png)
-
-## Limitations
-
-Currently all Ollama models will show a context limit of 2K tokens, but it doesn't reflect the actual limit of the model.

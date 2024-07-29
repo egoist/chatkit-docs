@@ -45,3 +45,7 @@ https://developers.google.com/custom-search/v1/overview#api_key
 In App Settings -> General:
 
 ![](https://cdn.jsdelivr.net/gh/egoist-bot/images@main/uPic/r0tJc5.png)
+
+## Notes
+
+- Toggling web access for a chat will also toggle it for future chats. i.e. if you enable web access for a chat, and then start a new chat it will also have web access enabled.
