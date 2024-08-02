@@ -24,7 +24,7 @@ The chat interface has an indicator to show whether you're using credits or API 
 
 ## Pricing
 
-$5 credits cost exactly $5 USD, different API will cost a different amount of credits, Our pricing is based on OpenAI pricing plus 30% fee, check out [OpenAI Pricing](https://openai.com/pricing) for their API pricing.
+$5 credits cost exactly $5 USD, different API will cost a different amount of credits, Our pricing is the same as OpenAI, check out [OpenAI Pricing](https://openai.com/pricing) for their API pricing.
 
 ## Where are credits used?
 
