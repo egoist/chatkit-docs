@@ -12,7 +12,7 @@ Head to https://chatkit.app/new-team
 
 ## Team pricing
 
-The base price for a team is $145 USD, which includes 50 devices and unlimited license keys. Your can purchase more devices with $5 USD per device.
+The base price for a team is $250 USD, which includes 50 devices and unlimited license keys. Your can purchase more devices with $8 USD per device.
 
 ## Team management
 
