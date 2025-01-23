@@ -21,3 +21,11 @@ Basically everything except your license key. This includes:
 - App settings (including your OpenAI API key (if any) etc.)
 - Chat history
 - Chat settings
+
+## How your data is store?
+
+All data transmitted to and from ChatKit is encrypted using SSL to ensure secure communication. And data at rest is also encrypted to protect it from unauthorized access. The server and database is located in Hetzner.com US data center.
+
+You can request for data deletion (with or without deleting your account), we are also implementing this feature in the UI soon.
+
+The only personal data we collect is your email address, which is used to identify user for cloud sync.
